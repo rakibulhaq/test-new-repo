@@ -1,5 +1,5 @@
 /**
- * Api: for vehicle tracking 
+ * Api: express template with mysql 
  * entry point for the api service
  * Developed by : Rakibul Haq Tarafdar
  */

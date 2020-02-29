@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Rakibul Haq",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "auto-bind": "^1.2.1",
     "body-parser": "^1.18.3",

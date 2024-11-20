@@ -14,7 +14,7 @@ const app = express();
 
 const bodyParser = require('body-parser');
 //use mysql
-const mysql = require('mysql');
+const mysql = require('mysql2');
 
 const routes = require(APP_ROUTE_PATH);
 const ValidationManager = require(APP_MANAGER_PATH + 'validation');
